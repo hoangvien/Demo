@@ -1,0 +1,14 @@
+{
+  "name": "serverdemo",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "ABCXYZ"
+  },
+  "author": "Hoang Vien",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
